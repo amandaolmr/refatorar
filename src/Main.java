@@ -11,5 +11,7 @@ public class Main {
         System.out.println("Valor total do pedido: R$ " + pedido.calcularTotal());
 
         System.out.println("Teste BranchTEste1");
+        System.out.println("Segundo Teste BranchTEste1");
+
     }
 }
