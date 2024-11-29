@@ -9,5 +9,7 @@ public class Main {
         pedido.adicionarItens(new Item("monitor", 2000, 2));
 
         System.out.println("Valor total do pedido: R$ " + pedido.calcularTotal());
+
+        System.out.println("Teste BranchTEste1");
     }
 }
